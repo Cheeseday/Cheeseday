@@ -1,13 +1,13 @@
 ## Hey 👋, my name is Aleś and I'm glad to see you there!
 
 
-### I'm Data Analyst with bachelor's degree in System Engineering!
+### I'm Data Engineer with bachelor's degree in Computer Science!
 
 ### Some facts about me:
 
 - 🔭 I'm actively looking for a job;
-- 🤓 Like trying new technologies;
-- 🧑‍💻 I'm currently into learning DA;
+- 🤓 Like trying new tools and technologies;
+- 🧑‍💻 I'm currently into learning DE;
 - 🛶 Constantly dreaming about my next hike;
 - ✌ Wish to make Belarus free and democratic again!
 
@@ -17,12 +17,13 @@
 <img align="left" alt="Pandas" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="SQLAlchemy" width="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+<img align="left" alt="Apache Spark" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
 <img align="left" alt="Flask" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
 <img align="left" alt="Jupyter" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="NumPy" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Plotly" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
-<img align="left" alt="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  />
-<!-- <img align="left" alt="Tableau" width="44px" src="file:///C:/Users/aleks/Downloads/tableau-svgrepo-com.svg"  /> -->
+<img align="left" alt="Matplotlib" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"  />
+<img align="left" alt="Apache Kafka" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg"  />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br />
